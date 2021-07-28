@@ -4,7 +4,7 @@ You need to click [REQUEST](https://johannesmilke.com/#/request "REQUEST") first
 
 [<img alt="JohannesMilke | REQUEST" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" />](https://johannesmilke.com/#/request "REQUEST")&ensp;[<img alt="JohannesMilke | ACCESS" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_access.png?alt=media" />](https://github.com/JohannesMilke-Sponsors/purchases_flutter_example "ACCESS")
     
-# Flutter Tutorial - In App Purchases & Subscriptions [2021] Revenue Cat
+# Flutter Tutorial - In App Purchases & Subscriptions [2021] RevenueCat
 [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![Newsletter](https://img.shields.io/static/v1?label=Follow&message=My%20Flutter%20Newsletter&color=5FB709&style=for-the-badge)][newsletter]
@@ -14,7 +14,7 @@ You need to click [REQUEST](https://johannesmilke.com/#/request "REQUEST") first
 [![GitHub stars](https://img.shields.io/github/stars/JohannesMilke/purchases_flutter_example.svg?style=social&label=Star)](https://github.com/JohannesMilke/purchases_flutter_example)
 [![GitHub JohannesMilke](https://img.shields.io/github/followers/JohannesMilke?label=follow&style=social)](https://github.com/JohannesMilke)
 
-Create In App Purchases and Subscriptions in Flutter with Revenue Cat.
+Create In App Purchases and Subscriptions in Flutter with RevenueCat.
 
 ### ✌&ensp;Preview
 
